@@ -1,1 +1,2 @@
-/ 100
+100 / 100
+Great, ls -l;exit not working (-5), Systemcall misuse (-5)
