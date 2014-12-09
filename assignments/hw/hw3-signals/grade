@@ -1,1 +1,4 @@
-/ 100
+70 / 100
+part1 20 part2 30 part3 20
+part1: non executable in the current
+part3: crashes in without or with parameters
